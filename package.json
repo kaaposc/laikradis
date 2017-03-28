@@ -1,0 +1,11 @@
+{
+  "name": "laikradis",
+  "version": "0.1.0",
+  "description": "Laika rādīšana cilvēku valodā",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Māris Vilks <kaaposc@gmail.com>",
+  "license": "GPLv3"
+}
